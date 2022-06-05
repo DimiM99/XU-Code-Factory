@@ -19,6 +19,16 @@ body.dark {
     transition: 0.6s;
 }
 
+footer {
+    background-color: #1c5748;
+    height: 100px;
+}
+
+footer h1,p {
+    margin-top: 5px;
+    color: white;
+}
+
 /* nav nbar styling*/
 nav {
     display: flex;
