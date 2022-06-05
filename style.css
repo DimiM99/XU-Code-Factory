@@ -338,3 +338,12 @@ nav li:hover {
 .dropdown .option div:hover {
     background-color: #C2E7FF;
 }
+
+.team {
+    flex-direction: row;
+    width: calc(100vw /2);
+}
+
+.teamMember {
+    flex-direction: column;
+}
